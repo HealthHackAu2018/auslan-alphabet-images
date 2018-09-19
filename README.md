@@ -27,7 +27,7 @@ Annotations were made by 3 individual annotators with tools [Rectlabel](https://
 
 ## Contributing
 
-Consider contributing annotations to the publically-available Dataturks repositories ([1](https://dataturks.com/projects/lextoumbourou/auslan-alphabet), [2](https://dataturks.com/projects/tomquirkacc/auslan-alphabet-1), [3](https://dataturks.com/projects/tomquirkacc/auslan-alphabet-2))
+Consider contributing annotations to the publicly-available Dataturks repositories ([1](https://dataturks.com/projects/lextoumbourou/auslan-alphabet), [2](https://dataturks.com/projects/tomquirkacc/auslan-alphabet-1), [3](https://dataturks.com/projects/tomquirkacc/auslan-alphabet-2))
 
 ### Contributors
 
